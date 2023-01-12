@@ -38,7 +38,8 @@ Log into the OsTicket browser and make sure you are on the "admin panel" (note i
 
 <p>
 <img src=https://i.imgur.com/dRwEFjz.png
-</p>
+     [
+](https://i.imgur.com/zgMmD2o.png)</p>
 <p>
 Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System Administrators" department with "Super admin" permissions level & add him to "Level II support" team. All of these options are located under the "access & Teams" tabs on the same agent screen. Next add "Jane Doe" the same way as previously completed for John Doe. Please reference pictures above that are in order.</p>
 <br />
