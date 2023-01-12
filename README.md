@@ -45,7 +45,6 @@ Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src=https://i.imgur.com/X9dF0pf.png
 <p>
 The last step is to configure "help topics". In this step you will create the help ticket names in OsTicketing for users to select when they are having specific issues. The tickets will also need to be assigned to a "department" along with a "SLA priority". You can even auto-assign that particular help desk ticket topic to a group like "Support level I" or level II depending on the severity. Ex: create ticket help topic titled "Network Outage" --> priority level "emergency" --> "Service level I" SLA plan --> sent to the "System Administrators" group --> auto-assigned to the "support team" or to an individual agent like John or Jane. This concludeds how to setup help desk support tickets from the admin level post Installation.</p>
